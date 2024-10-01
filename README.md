@@ -28,9 +28,5 @@
 <br/>
 <a href="ackertaker69@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ail-ackertaker69@gmail.com-blue?style=flat-square&logo=Gmail"></a> 
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=anacantarero3&show_icons=true)
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=daguirre7&show_icons=true)
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=jessrau31&show_icons=true)
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ackerT&show_icons=true)
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RuthJimenez309&show_icons=true)
+
 
